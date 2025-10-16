@@ -30,8 +30,8 @@ GCP:
 ![GCP function](/GCP/gcp_test.png)
 
 Azure:
-![azure functionality](/AZURE/azure_req.png)
-![azure functionality](/AZURE/azure_test.png)
+![azure functionality](/Azure/azure_req.png)
+![azure functionality](/Azure/azure_test.png)
 
 
 ## Public Endpoint URLs
