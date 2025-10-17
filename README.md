@@ -1,7 +1,7 @@
 # Cloud Serverless Functions
 
 ## Zoom Recording
-Recording:
+Recording: https://drive.google.com/file/d/12htdwl6U5OQXCwx2Wq6YbHxEtIGLiUPp/view?usp=sharing
 
 ## Cloud environments
 Cloud environment used and their regions: 
@@ -114,4 +114,4 @@ GCP:
 
 
 ### Overall assessment
-Both Azure and GCP deliver strong performance for running serverless workloads. Azure stands out for its flexibility, deep configuration options, and enterprise-level integrations, while GCP emphasizes simplicity, rapid setup, and ease of management. The best choice depends on user priorities—Azure for advanced customization and integration, or GCP for streamlined development and speed.
+Both Azure and GCP deliver strong performance for running serverless workloads. Azure stands out for its flexibility, deep configuration options, and enterprise-level integrations, while GCP emphasizes simplicity, rapid setup, and ease of management. The best choice depends on user priorities where Azure is better for advanced customization and integration, and GCP for streamlined development and speed.
